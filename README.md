@@ -26,7 +26,8 @@ Location-based markers that guide you through the city's artistic landmarks.
 To give you a taste of the art and the app, here are some images from the City Spot tour:
 ![Screenshot 2024-12-18 164940](https://github.com/user-attachments/assets/5453545b-1c49-41e0-9aca-8fc37d98beed)
 ![Screenshot 2024-12-18 164950](https://github.com/user-attachments/assets/eab35184-b1dd-465a-85be-635e7aa787c3)
-![Screenshot 2024-12-18 165004](https://github.com/user-attachments/assets/0cc5385e-4351-42d9-a96e-cb2bd359c582)
+![Screenshot 2024-12-18 165322](https://github.com/user-attachments/assets/1bfc9ed4-6f6c-40c6-afbb-bbc01afd244b)
+![Screenshot 2024-12-18 165329](https://github.com/user-attachments/assets/1793190b-fb8c-43af-ae8c-78b6aedf779e)
 
 🧭 How to Use the App
 Open the app on your mobile device.
