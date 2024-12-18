@@ -1,0 +1,124 @@
+.phone-container {
+  position: relative;
+  width: 100vh;
+  max-width: 430px;
+  height: 100vh;
+  background-color: var(--background-color);
+}
+
+.phone-frame {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.hero-image {
+  height: 100%;
+  overflow: hidden;
+}
+
+.main-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.overlay-content {
+  position: absolute;
+  right: 0;
+  bottom: 10rem;
+  left: 0;
+  margin: 0 1rem;
+  padding: 1rem;
+  border-radius: 16px;
+  background: rgb(249 244 244 / 75%);
+  backdrop-filter: blur(5px);
+}
+
+.overlay-content h2 {
+  padding: 0 1rem;
+  text-align: center;
+}
+
+#description-text {
+  text-align: center;
+}
+
+.partnership {
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 1rem;
+  padding: 1rem 0;
+  background-color: #faf5f5;
+}
+
+.partnership p {
+  margin-right: 1rem;
+  font-weight: 700;
+  text-align: end;
+}
+
+.info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.info-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.5rem;
+}
+
+.descriptions {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.icons {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.partner-logo {
+  height: 100px;
+}
+
+.cta-button {
+  width: 100%;
+  margin-top: 1rem;
+  padding: 0.8rem 1.5rem;
+  border: none !important;
+  border-radius: 16px;
+  background-color: var(--primary-color);
+  color: var(--background-color);
+  font-size: 1rem;
+  transition: background-color 0.3s ease, transform 0.2s ease,
+    box-shadow 0.2s ease;
+  cursor: pointer;
+}
+
+.cta-button:active {
+  transform: scale(0.98);
+  box-shadow: 0 2px 4px rgb(0 0 0 / 20%);
+}
+
+.walking-man {
+  width: 27px;
+  height: 30px;
+}
